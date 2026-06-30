@@ -1,0 +1,6 @@
+{
+  "name": "Route Resilience Analyzer",
+  "description": "Geospatial AI & graph-theoretic criticality analysis pipeline for occlusion-robust road extraction, topological healing, and urban mobility stress testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
